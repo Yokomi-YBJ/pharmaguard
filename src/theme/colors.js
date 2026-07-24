@@ -1,0 +1,18 @@
+export const Colors = {
+  bgDark: '#050D1A',
+  surface: '#0C1526',
+  elevated: '#111E35',
+  inputBg: '#0A1322',
+  hover: '#131F36',
+  neonBlue: '#00E5FF',
+  neonGreen: '#00FF88',
+  neonPurple: '#B300FF',
+  neonOrange: '#FF6D00',
+  neonRed: '#FF1744',
+  neonGold: '#FFD600',
+  textPrimary: '#ECEFF1',
+  textSecondary: '#90A4AE',
+  textDisabled: '#37474F',
+  borderStd: '#1A2E4A',
+  borderFocus: '#00E5FF',
+};

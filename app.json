@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "PharmaGuard",
+    "slug": "pharmaguard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#050D1A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "cm.pharmaguard.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#050D1A"
+      },
+      "package": "cm.pharmaguard.app",
+      "jsEngine": "jsc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
